@@ -1,16 +1,14 @@
-# flutter_read_id_card_app
+# Flutter ID Card Reader App
 
-A new Flutter project.
+An app that can read Thai ID Card info from image.
 
-## Getting Started
+## How to Use
+- Register and get api key from https://ai.iapp.co.th/
+- Change the apiKey in app_constant.dart file to your own api key. 
 
-This project is a starting point for a Flutter application.
+## All features 
+- Get data from front side of the ID card
+- Get data from back side of the ID card
 
-A few resources to get you started if this is your first Flutter project:
+  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
