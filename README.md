@@ -10,5 +10,5 @@ An app that can read Thai ID Card info from image.
 - Get data from front side of the ID card
 - Get data from back side of the ID card
 
-  
+<img src="https://github.com/WilliamNha/flutter_read_id_card_app/assets/49360858/86ad703f-5c51-4c4e-8df1-34a888e8857a" width="500" height="250">
 
